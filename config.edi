@@ -1,0 +1,2 @@
+graphic: default
+beep: Echo/| CHOICE /N 2> nul
